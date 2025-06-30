@@ -1,0 +1,14 @@
+frontend/node_modules/.cache/
+backend/data/02_customs/upload_data/
+backend/backend.log
+frontend/frontend.log
+# 忽略 Python 缓存目录
+__pycache__/
+**/__pycache__/
+*.py[cod]
+conda_env/
+**/nohup.out
+cron.log
+backend/logs/
+**/upload_data/
+
